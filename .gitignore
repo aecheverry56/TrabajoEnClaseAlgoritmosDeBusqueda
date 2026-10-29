@@ -1,0 +1,8 @@
+# IntelliJ IDEA project-local files
+.idea/
+.run/
+*.iml
+
+# Compiled output
+out/
+*.class
